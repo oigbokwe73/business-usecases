@@ -1,6 +1,6 @@
-## Document analysis
+# T-Mobile PromoGenius case study
 
-The [T-Mobile PromoGenius case study](sandbox:/workspace/scratch/a1a80a8ea9b8/upload/T-Mobile empowers customer service representatives using Power Apps and Copilot Studio - Power Platform _ Microsoft Learn.PDF) describes a guided sales-assistance application for retail and call-center customer service representatives.
+The T-Mobile PromoGenius case study empowers customer service representatives using Power Apps and Copilot Studio - Power Platform _ Microsoft Learn.PDF) describes a guided sales-assistance application for retail and call-center customer service representatives.
 
 The solution combines:
 
