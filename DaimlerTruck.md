@@ -1,7 +1,8 @@
 
-## Document analysis
 
-The [Daimler Truck Policy Navigator case study](sandbox:/workspace/scratch/a1a80a8ea9b8/upload/Daimler Truck transforms policy management with Power Apps, Dataverse, and managed environments - Power Platform _ Microsoft.PDF) describes a company-wide policy-management platform with three primary components:
+# Daimler Truck Policy Navigator case study
+
+The Daimler Truck Policy Navigator case study  transforms policy management with Power Apps, Dataverse, and managed environments - Power Platform _ Microsoft.PDF) describes a company-wide policy-management platform with three primary components:
 
 * Employee-facing application for finding, reading, requesting, and following policies.
 * Administrator application for creating policies and managing their lifecycle.
